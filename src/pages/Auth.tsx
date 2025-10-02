@@ -63,7 +63,7 @@ const Auth = () => {
       <Card className="w-full max-w-md shadow-lg">
         <CardHeader className="space-y-1">
           <CardTitle className="text-3xl font-bold text-center bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            Image Annotator
+            NotedMark
           </CardTitle>
           <CardDescription className="text-center">
             {isSignUp ? "Create your account to get started" : "Sign in to your account"}
